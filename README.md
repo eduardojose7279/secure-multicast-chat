@@ -60,13 +60,13 @@ Aplicação de chat em rede local (LAN) desenvolvida em Python utilizando **sock
 ## Demonstração
 
 **Cliente 1 (chave correta):**
-![Cliente 1](docs/cliente1.png)
+![Cliente 1](docs/Aluno1.png)
 
 **Cliente 2 (chave correta):**
-![Cliente 2](docs/cliente2.png)
+![Cliente 2](docs/Aluno2.png)
 
 **Cliente 3 (chave incorreta — mensagem descartada):**
-![Cliente 3 com chave incorreta](docs/intruso.png)
+![Cliente 3 com chave incorreta](docs/Intruso.png)
 
 ## Contexto Acadêmico
 
